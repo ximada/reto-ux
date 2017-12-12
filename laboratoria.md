@@ -6,8 +6,8 @@
   * Para el caso de el objetivo de negocio de Empresas: Confianza, profesionalismo, responsabilidad.
 
 
- ### UI:
-  * Paleta de Colores
+  ### UI:
+   * Paleta de Colores
   * Botones con Elces
   * Imagenes
   * Iconos de redes Sociales
@@ -20,6 +20,17 @@
  2. Identifica los elementos de navegación de: *Github*
  ### Navegación Global
  ![Imagen](assets/images/nav-global.jpg)
+ ### Navegación Inline
+ ![Imagen](assets/images/nav-inline.jpg)
+
+ ![Imagen](assets/images/nav-link.jpg)
+ ### Navegación local
+ ![Imagen](assets/images/nav-local.jpg)
+ ### Navegación Contextual
+ ![Imagen](assets/images/nav-contextual.jpg)
+
+
+
  ### Navegación Pie de pagina
   ![Imagen](assets/images/nav-piede-pag.jpg)
 
@@ -27,3 +38,4 @@
 ###  Dashboard de Laboratoria
 
 ![Imagen](assets/images/dashboard-lab.jpg)
+ link del proyecto : https://marvelapp.com/5b2066g
